@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=havva-nur-ezginci&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ![](https://github-readme-streak-stats.herokuapp.com/?user=havva-nur-ezginci&theme=blueberry&hide_border=false&date=20240903)
 
 <!--
+top lang => &langs_count=12
 ![](https://github-readme-stats.vercel.app/api?username=havva-nur-ezginci&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
 -->
 
