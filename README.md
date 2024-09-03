@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Havvanur Ezginci and I am glad you are visiting my profile now!
+My name is Havvanur Ezginci and I'm glad you're visiting my profile now!
 <!--
 **havva-nur-ezginci/havva-nur-ezginci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
