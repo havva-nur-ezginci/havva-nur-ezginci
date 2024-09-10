@@ -1,3 +1,5 @@
+<img src="https://github.com/havva-nur-ezginci/havva-nur-ezginci/blob/main/coffee.gif" align="right" >
+
 ## Hi there 👋 
 My name is Havvanur Ezginci and I'm glad you're visiting my profile now!
 
