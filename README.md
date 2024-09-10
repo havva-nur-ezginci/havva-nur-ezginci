@@ -1,4 +1,4 @@
-<img src="https://github.com/havva-nur-ezginci/havva-nur-ezginci/blob/main/coffee.gif" align="right" >
+<img src="https://github.com/havva-nur-ezginci/havva-nur-ezginci/blob/main/assets/work.gif" width="250px" height="250px"  align="right" >
 
 ## Hi there 👋 
 
