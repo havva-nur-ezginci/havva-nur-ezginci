@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
+My name is Havvanur Ezginci and I'm glad you're visiting my profile now!<img src="https://github.com/havva-nur-ezginci/havva-nur-ezginci/blob/main/coffee.gif" width="85px" height="85px" alt="Coffee Animation" style="display: inline; margin: 0; padding: 0; vertical-align: middle;"/> 
 
-My name is Havvanur Ezginci and I'm glad you're visiting my profile now!
 <!--
 **havva-nur-ezginci/havva-nur-ezginci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
