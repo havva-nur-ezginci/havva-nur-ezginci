@@ -1,9 +1,12 @@
 <img src="https://github.com/havva-nur-ezginci/havva-nur-ezginci/blob/main/coffee.gif" align="right" >
 
 ## Hi there 👋 
+
 My name is Havvanur Ezginci and I'm glad you're visiting my profile now!
 
 <!--
+<h1 align="center">Hi there <img height="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
 
 <img src="https://github.com/havva-nur-ezginci/havva-nur-ezginci/blob/main/coffee.gif" width="85px" height="85px" alt="Coffee Animation" style="display: inline; margin: 0; padding: 0; vertical-align: middle;"/> 
 **havva-nur-ezginci/havva-nur-ezginci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
