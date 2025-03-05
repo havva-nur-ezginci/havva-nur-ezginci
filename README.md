@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://linkedin.com/in/havva-nur-ezginci" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-<a target="_blank" href="mailto:nurezginci@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 # 💻 Tech Stack:
